@@ -1,0 +1,14 @@
+{
+  "name": "tina-lipsum",
+  "version": "0.4.3",
+  "description": "lorem ipsum generator based on tina belcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Pittard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
